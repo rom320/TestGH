@@ -1,4 +1,4 @@
-# How to build a business app using Agile w/ Blueprints
+# How to Build a Business App using Agile w/ Blueprints
 
 by Rick McUmber
 
