@@ -2,7 +2,7 @@
 
 by Rick McUmber
 
-Released March 2024
+Released June 2024
 
 ISBN:
 
